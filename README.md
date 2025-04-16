@@ -11,6 +11,28 @@ El usuario ingresa una URL de YouTube (en formato largo o corto), y el script ex
 - `https://www.youtube.com/watch?v=VIDEO_ID`
 - `https://youtu.be/VIDEO_ID`
 
+## 📥 Formatos disponibles para descarga
+
+A continuación se listan los formatos disponibles para descarga de audio y video:
+
+| Formato            | Descripción     |
+|--------------------|-----------------|
+| mp3                | MP3             |
+| M4A                | M4A             |
+| webm_audio         | WEBM Audio      |
+| CAA                | CAA             |
+| Flac               | FLAC            |
+| Opus               | OPUS            |
+| Ogg                | OGG             |
+| WAV                | WAV             |
+| 360                | MP4 360p        |
+| 480                | MP4 480p        |
+| 720                | MP4 720p        |
+| 1080               | MP4 1080p       |
+| 4K                 | MP4 4K          |
+| 8K                 | MP4 8K          |
+
+
 ## 🧩 API utilizada
 
 El proyecto utiliza la siguiente API externa para generar la tarjeta visual del video:
