@@ -1,6 +1,6 @@
 # Mp3YtoubeBsz
 
-Este proyecto es una herramienta web simple que permite insertar videos de YouTube dentro de un `iframe` personalizado, utilizando una API externa que genera una tarjeta visual del video. Es ideal para compartir contenido de YouTube con una presentación atractiva y embebida en sitios web.
+Es una herramienta web simple que permite insertar videos de YouTube dentro de un `iframe` personalizado, utilizando una API externa que genera una tarjeta visual del video. Es ideal para compartir contenido de YouTube con una presentación atractiva y embebida en sitios web.
 
 ## 🚀 ¿Cómo funciona?
 
