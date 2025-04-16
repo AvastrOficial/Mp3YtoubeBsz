@@ -27,7 +27,8 @@ El proyecto utiliza la siguiente API externa para generar la tarjeta visual del 
 
 ## 📸 Ejemplo visual
 
-![Ejemplo de tarjeta](https://p.oceansaver.in/api/card2/og.png)
+![image](https://github.com/user-attachments/assets/14018f50-d731-415d-9740-148d3a2be0c1)
+
 
 ## 📝 Cómo usar
 
